@@ -1,0 +1,3603 @@
+[
+  [
+    {
+      "code": "AD001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Regionalni put  Senta-Bečej-Novi Sad."
+    },
+    {
+      "code": "AD002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Regionalni put  Senta-Bečej-Novi Sad."
+    },
+    {
+      "code": "AD003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Pri samom ulazu u grad. Pored benzinske pumpe. Lice prema ulazu"
+    },
+    {
+      "code": "AD004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Pri samom ulazu u grad. Pored benzinske pumpe. Lice prema gradu."
+    },
+    {
+      "code": "AD005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Centar grada. U neposrednoj blizini Hotela Ada"
+    },
+    {
+      "code": "AD006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Centar grada. U neposrednoj blizini Hotela Ada"
+    },
+    {
+      "code": "AD007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Centar, kod doma zdravlja."
+    },
+    {
+      "code": "AD008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Centar, kod doma zdravlja."
+    }
+  ],
+  [
+    {
+      "code": "AP001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ulaz, kružni tok, banja Junaković, NS, Bogojevo granični prelaz."
+    },
+    {
+      "code": "AP002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Izlaz, kružni tok, banja Junaković, NS, Bogojevo granični prelaz."
+    },
+    {
+      "code": "AP003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kod Univerexport-a, put prema Bogojevu"
+    },
+    {
+      "code": "AP004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kod Univerexport-a, put prema Bogojevu"
+    },
+    {
+      "code": "AP005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Ulaz iz pravca Sombora ka centru blizu NIS pumpe"
+    },
+    {
+      "code": "AP006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Izlaz iz pravca Sombora ka centru blizu NIS pumpe"
+    }
+  ],
+  [
+    {
+      "code": "BA001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bač , prema centru pre mosta"
+    },
+    {
+      "code": "BA002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bač , od centra posle mosta"
+    },
+    {
+      "code": "BA003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bač , ulaz iz pravca Selenče i Odžaka"
+    },
+    {
+      "code": "BA004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bač , izlaz u pravcu Selenče i Odžaka"
+    }
+  ],
+  [
+    {
+      "code": "BP001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bačka Palanka, izlaz ka Čelarevu i Novom Sadu"
+    },
+    {
+      "code": "BP002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bačka Palanka, ulaz od Čelareva i Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "BT001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bačka Topola, prema centru od autoputa SU-NS posle pružnog prelaza"
+    },
+    {
+      "code": "BT002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bačka Topola, iz centra prema autoputu SU-NS kod pružnog prelaza"
+    },
+    {
+      "code": "BT003",
+      "dimension": "500x210",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bačka Topola, centar"
+    },
+    {
+      "code": "BT004",
+      "dimension": "500x210",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bačka Topola, centar"
+    }
+  ],
+  [
+    {
+      "code": "BJ001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bački Jarak, ulaz iz pravca Novog Sada"
+    },
+    {
+      "code": "BJ002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bački Jarak, izlaz u pravcu Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "BM001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bački Monoštor, glavna saobraćajnica"
+    },
+    {
+      "code": "BM002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bački Monoštor, glavna saobraćajnica"
+    }
+  ],
+  [
+    {
+      "code": "BPE001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bački Petrovac, izlaz u Pravcu Rumenke i Novog Sada"
+    },
+    {
+      "code": "BPE002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bački Petrovac, ulaz iz pravca Rumenke i Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "BF001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": [],
+      "location_description": "Bačko Gradište, u centru, raskrsnica Bečej, Novi Sad, Žabalj, levi"
+    },
+    {
+      "code": "BF002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": [],
+      "location_description": "Bačko Gradište, u centru, raskrsnica Bečej, Novi Sad, Žabalj, desni"
+    }
+  ],
+  [],
+  [
+    {
+      "code": "BNT001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Banatska Topola, od ulaza ka centru"
+    },
+    {
+      "code": "BNT002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Banatska Topola, od ulaza ka centru"
+    }
+  ],
+  [
+    {
+      "code": "BVS001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Banatsko Veliko Selo, od ulaza ka centru"
+    },
+    {
+      "code": "BVS002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Banatsko Veliko Selo, od ulaza ka centru"
+    }
+  ],
+  [
+    {
+      "code": "BD001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bašaid, izlaz u pravcu Melenaca"
+    },
+    {
+      "code": "BD002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bašaid, ulaz u pravcu Melenaca"
+    }
+  ],
+  [
+    {
+      "code": "BV001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bavanište, ulaz iz pravca Kovina"
+    },
+    {
+      "code": "BV002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bavanište, izlaz u pravcu Kovina"
+    }
+  ],
+  [
+    {
+      "code": "BE001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bečej, na autobuskoj stanici, prvi"
+    },
+    {
+      "code": "BE002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bečej, na autobuskoj stanici, drugi"
+    },
+    {
+      "code": "BE003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bečej, na autobuskoj stanici, drugi"
+    },
+    {
+      "code": "BE004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bečej, na autobuskoj stanici, prvi"
+    },
+    {
+      "code": "BE005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečej, centar, kod suda i muzičke škole"
+    },
+    {
+      "code": "BE006",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bečej, centar, kod suda i muzičke škole"
+    },
+    {
+      "code": "BE007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečej, centar, preko puta marketa Maxi"
+    },
+    {
+      "code": "BE008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Bečej, ulaz-izlaz ka Zrenjaninu, kod KTC marketa"
+    },
+    {
+      "code": "BE009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Bečej, ulaz-izlaz ka Zrenjaninu, kod KTC marketa"
+    },
+    {
+      "code": "BE010",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečej, ulaz iz pravca Novog Sada"
+    },
+    {
+      "code": "BE011",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bečej, ulaz iz pravca Novog Sada"
+    },
+    {
+      "code": "BE012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečej, ulaz iz pravca Ade i Sente"
+    },
+    {
+      "code": "BE013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bečej, ulaz iz pravca Ade i Sente"
+    },
+    {
+      "code": "BE014",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečej, tranzit, kod Luk oil pumpe"
+    },
+    {
+      "code": "BE015",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečej, tranzit, kod Luk oil pumpe"
+    }
+  ],
+  [
+    {
+      "code": "BR001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečejski ribnjak, na putu za Bačko Gradište i Novi Sad"
+    },
+    {
+      "code": "BR002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bečejski ribnjak, od Bačkog Gradišta prema Bečeju"
+    },
+    {
+      "code": "BR003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečejski ribnjak, na putu za Bačko Gradište i Novi Sad"
+    },
+    {
+      "code": "BR004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bečejski ribnjak, od Bačkog Gradišta prema Bečeju"
+    }
+  ],
+  [
+    {
+      "code": "BC001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bela Crkva, ulaz iz pravca Kovina"
+    },
+    {
+      "code": "BC002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bela Crkva, Izlaz u pravcu Kovina"
+    },
+    {
+      "code": "BC003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bela Crkva, centar, 01. oktobra kod pijace i autobuske stanice"
+    },
+    {
+      "code": "BC004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bela Crkva, centar, 01. oktobra kod pijace i autobuske stanice"
+    },
+    {
+      "code": "BC005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Bela Crkva, centar, Žarka Zrenjanina kod Gradskog parka"
+    },
+    {
+      "code": "BC006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Bela Crkva, centar, Žarka Zrenjanina kod Gradskog parka"
+    }
+  ],
+  [
+    {
+      "code": "BN001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Beočin, ulaz iz pravca Novog Sada, kod sportskog centra"
+    },
+    {
+      "code": "BN002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Beočin, Izlaz prema Novom Sadu, kod sportskog centra"
+    }
+  ],
+  [
+    {
+      "code": "CA001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Čačak, Ibarka magistrala, ulaz iz pravca Užica, prvi"
+    },
+    {
+      "code": "CA002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Čačak, Ibarka magistrala, izlaz u pravcu Užica, drugi"
+    },
+    {
+      "code": "CA003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Čačak, Ibarka magistrala, ulaz iz pravca Užica, drugi"
+    },
+    {
+      "code": "CA004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Čačak, Ibarka magistrala, izlaz u pravcu Užica, prvi"
+    },
+    {
+      "code": "CA005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Čačak, Đorđa Tomaševića, glavni izlaz iz grada ka Gornjem Milanovcu"
+    },
+    {
+      "code": "CA006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Čačak, Đorđa Tomaševića, glavni ulaz u grad iz pravca Gornjeg Milanovca"
+    },
+    {
+      "code": "CA009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Čačak, izlaz, Ibarska, selo Preljina kod Avia b.p. ka G. Milanovcu i BGD"
+    },
+    {
+      "code": "CA010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Čačak, ulaz, Ibarska, selo Preljina kod Avia b.p. ka Čačku, KV i CG"
+    },
+    {
+      "code": "CA011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Čačak, kod semafora za Guču"
+    },
+    {
+      "code": "CA012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Čačak, kod semafora za Guču"
+    },
+    {
+      "code": "CA013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Čačak, Dragiše Mišovića, iz centra ka bolnici i starim putem ka Kraljevu"
+    },
+    {
+      "code": "CA014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Čačak, Dragiše Mišovića, iz pravca Kraljeva starim putem ka centru"
+    }
+  ],
+  [
+    {
+      "code": "CN001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Čenta, izlaz prema Zrenjaninu"
+    },
+    {
+      "code": "CN002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Čenta, ulaz iz pravca Zrenjanina"
+    }
+  ],
+  [
+    {
+      "code": "CO001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": [],
+      "location_description": "Čoka, na raskrsnici Senta - Kikinda - Knezevac, kod NIS pumpe, desni"
+    },
+    {
+      "code": "CO002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": [],
+      "location_description": "Čoka, na raskrsnici Senta - Kikinda - Knezevac, kod NIS pumpe, levi"
+    }
+  ],
+  [
+    {
+      "code": "CR001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Crvenka, pri samom ulazu, kod MOL pumpe. Put prema Kuli"
+    },
+    {
+      "code": "CR002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Crvenka, pri samom izlazu kod MOL pumpe. Put prema Kuli"
+    },
+    {
+      "code": "CR003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Crvenka, ulaz iz pravca Sivca, 200 m od autobuska stanice"
+    },
+    {
+      "code": "CR004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Crvenka, izlaz prema Sivcu, 200 m od autobuske stanice"
+    }
+  ],
+  [
+    {
+      "code": "FK001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Feketić, centar na putu Novi Sad - Subotica"
+    },
+    {
+      "code": "FK002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Feketić, centar na putu Novi Sad - Subotica"
+    }
+  ],
+  [
+    {
+      "code": "FU001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Futog, od centra ka Veterniku i Novom Sadu"
+    },
+    {
+      "code": "FU002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Futog, ulaz ka centru od Veternika i Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "GM001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Gornji Milanovac, ulaz, između centra i Metalca"
+    },
+    {
+      "code": "GM002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Gornji Milanovac, ulaz, između centra i Metalca"
+    },
+    {
+      "code": "GM003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Gornji Milanovac, Ibarska magistrala, kod Swisslion-a"
+    },
+    {
+      "code": "GM004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Gornji Milanovac, Ibarska magistrala, kod Swisslion-a"
+    }
+  ],
+  [
+    {
+      "code": "HO001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Horgoš, centar, od graničnog prelaza"
+    },
+    {
+      "code": "HO002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Horgoš, centar, ka graničnom prelazu"
+    }
+  ],
+  [
+    {
+      "code": "IN001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Inđija, na putu pri samom ulazu u grad"
+    },
+    {
+      "code": "IN002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Inđija, na samom izlazu prema Novom Sadu"
+    },
+    {
+      "code": "IN003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Inđija, kod Outlet centra, izlaz prema auto putu"
+    },
+    {
+      "code": "IN004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Inđija, kod Outlet centra, ulaz sa auto puta"
+    }
+  ],
+  [
+    {
+      "code": "IR001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Irig, ulaz iz pravca Rume, donji"
+    },
+    {
+      "code": "IR002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Irig, izlaz prema Rumi, donji"
+    },
+    {
+      "code": "IR003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Irig, ulaz iz pravca Rume, gornji"
+    },
+    {
+      "code": "IR004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Irig, izlaz prema Rumi, gornji"
+    },
+    {
+      "code": "IR005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Irig, ulaz iz pravca Novog Sada"
+    },
+    {
+      "code": "IR006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Irig, izlaz u pravcu Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "KNJ001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kanjiža, na magistralnom putu Subotica - Novi Sad"
+    },
+    {
+      "code": "KNJ002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kanjiža, na magistralnom putu Subotica - Novi Sad"
+    },
+    {
+      "code": "KNJ003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kanjiža, preko puta Banje Kanjiža na putu Kikinda - Subotica"
+    },
+    {
+      "code": "KNJ004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kanjiža, preko puta Banje Kanjiža na putu Kikinda - Subotica"
+    },
+    {
+      "code": "KNJ005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kanjiža, centar"
+    },
+    {
+      "code": "KNJ006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kanjiža, centar"
+    },
+    {
+      "code": "KNJ007",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kanjiža, kod banje Kanjiža"
+    },
+    {
+      "code": "KNJ008",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kanjiža, kod banje Kanjiža"
+    }
+  ],
+  [
+    {
+      "code": "KI001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kikinda, raskrsnica na samom ulazu u grad, na putu iz pravca Subotice"
+    },
+    {
+      "code": "KI002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kikinda, raskrsnica na samom izlazu iz grada, na putu ka Subotici"
+    },
+    {
+      "code": "KI003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kikinda, Svetosavska ulica"
+    },
+    {
+      "code": "KI004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kikinda, Svetosavska ulica"
+    },
+    {
+      "code": "KI005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Kikinda, preko puta megamarketa IDEA, kod osnovne škole, levi"
+    },
+    {
+      "code": "KI006",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Kikinda, preko puta megamarketa IDEA, kod osnovne škole, desni"
+    },
+    {
+      "code": "KI007",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Donji",
+      "lighting": "Da",
+      "location_description": "Kikinda, na glavnoj autobuskoj stanici u Kikindi, donji"
+    },
+    {
+      "code": "KI008",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Gornji",
+      "lighting": "Da",
+      "location_description": "Kikinda, na glavnoj autobuskoj stanici u Kikindi, gornji"
+    },
+    {
+      "code": "KI009",
+      "dimension": "500x240",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Kikinda, nalazi se na autobuskoj stanici"
+    },
+    {
+      "code": "KI010",
+      "dimension": "500x240",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Kikinda, centar grada (pored je dečije igralište)"
+    },
+    {
+      "code": "KI011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kikinda, centar, ugao Nemanjine i Djoke Radaka"
+    },
+    {
+      "code": "KI012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kikinda, centar, ugao Nemanjine i Djoke Radaka"
+    },
+    {
+      "code": "KI013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kikinda, Mikro naselje"
+    },
+    {
+      "code": "KI014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kikinda, Mikro naselje"
+    },
+    {
+      "code": "KI015",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Kikinda, na izlazu iz Kikinde, raskrsnica puteva BG-NS, levi"
+    },
+    {
+      "code": "KI016",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Kikinda, na izlazu iz Kikinde, raskrsnica puteva BG-NS, desni"
+    },
+    {
+      "code": "KI017",
+      "dimension": "500x240",
+      "free": "Da",
+      "lighting": [],
+      "location_description": "Kikinda, na izlazu iz Kikinde, raskrsnica puteva BG-NS"
+    }
+  ],
+  [],
+  [
+    {
+      "code": "KN001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kovin, ulaz iz pravca Pančeva, kod kasarne"
+    },
+    {
+      "code": "KN002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kovin, izlaz u pravcu Pančeva, kod kasarne"
+    },
+    {
+      "code": "KN003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Kovin, ulaz iz pravca Smedereva"
+    },
+    {
+      "code": "KN004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Kovin, izlaz u pravcu Smedereva"
+    }
+  ],
+  [
+    {
+      "code": "KG001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kragujevac, Bulevar Kneza Mihaila"
+    },
+    {
+      "code": "KG002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kragujevac, Bulevar Kneza Mihaila"
+    },
+    {
+      "code": "KG003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kragujevac, Avalska, tranzitni put"
+    },
+    {
+      "code": "KG004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kragujevac, Avalska, tranzitni put"
+    },
+    {
+      "code": "KG005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Kragujevac, centar, Potporučnika Govedarice, levi"
+    },
+    {
+      "code": "KG006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Kragujevac, centar, Potporučnika Govedarice, desni"
+    },
+    {
+      "code": "KG007",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kragujevac, na putu za Kraljevo, Čačak"
+    },
+    {
+      "code": "KG008",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kragujevac, na putu za Kraljevo, Čačak"
+    },
+    {
+      "code": "KG009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kragujevac, Bul. Kraljice Marije, 1 km od centra kod tc Plaza"
+    },
+    {
+      "code": "KG010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kragujevac, Bul. Kraljice Marije, 1 km do centra kod tc Plaza"
+    },
+    {
+      "code": "KG011",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Kragujevac, centar, Potporučnika Govedarice"
+    }
+  ],
+  [
+    {
+      "code": "KV001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kraljevo, Dimitrija Tucovića, pored autobuske stanice"
+    },
+    {
+      "code": "KV002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kraljevo, Dimitrija Tucovića, pored autobuske stanice"
+    },
+    {
+      "code": "KV003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kraljevo, kružni tok centar - ČA – BG - Raška"
+    },
+    {
+      "code": "KV004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kraljevo, kružni tok centar - ČA – BG - Raška"
+    },
+    {
+      "code": "KV005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kraljevo, ulaz od Kragujevca i Kruševca, 300 m do DIS-a"
+    },
+    {
+      "code": "KV006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kraljevo, izlaz prema Kragujevcu i Krušvcu kod DIS-a"
+    }
+  ],
+  [
+    {
+      "code": "KŠ001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kruševac, ugao Vojislava Ilića i Cara Lazara kod Eco pumpe"
+    },
+    {
+      "code": "KŠ002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kruševac, ugao Vojislava Ilića i Cara Lazara kod Eco pumpe"
+    },
+    {
+      "code": "KŠ003",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Kruševac, ugao Vojislava Ilića i Cara Lazara kod Eco pumpe"
+    },
+    {
+      "code": "KŠ004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kruševac, kružni tok Dušanove, Bruskog puta i K. Miloša kod NIS pumpe i Rode"
+    },
+    {
+      "code": "KŠ005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kruševac, kružni tok Dušanove, Bruskog puta i K. Miloša kod NIS pumpe i Rode"
+    },
+    {
+      "code": "KŠ006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Kruševac, Kneza Miloša kod DIS-a i Mol pumpe"
+    },
+    {
+      "code": "KŠ007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Kruševac, Kneza Miloša kod DIS-a i Mol pumpe"
+    }
+  ],
+  [
+    {
+      "code": "KU001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Prosvetljen",
+      "location_description": "Kula, centar, 70 m od megamarketa Rodić"
+    },
+    {
+      "code": "KU002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Prosvetljen",
+      "location_description": "Kula, centar, 70 m od megamarketa Rodić"
+    },
+    {
+      "code": "KU003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Cerada",
+      "location_description": "Kula, centar, ulaz od Bačke Topole"
+    },
+    {
+      "code": "KU004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Cerada",
+      "location_description": "Kula, centar, ulaz od Bačke Topole"
+    },
+    {
+      "code": "KU005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": [],
+      "location_description": "Kula, ulaz kod nadvoznjaka"
+    },
+    {
+      "code": "KU006",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": [],
+      "location_description": "Kula, ulaz kod nadvoznjaka"
+    }
+  ],
+  [],
+  [
+    {
+      "code": "MI001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Mali Iđoš, tranzitni put Subotica - Bačka Topola"
+    },
+    {
+      "code": "MI002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Mali Iđoš, tranzitni put Subotica - Bačka Topola"
+    }
+  ],
+  [
+    {
+      "code": "MN001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Mokrin, centar"
+    },
+    {
+      "code": "MN002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Mokrin, centar"
+    }
+  ],
+  [
+    {
+      "code": "MO001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Mol, u centru, pored megamarketa Gomex. Lice prema centru"
+    },
+    {
+      "code": "MO002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Mol, u centru, pored megamarketa Gomex. Lice od centra"
+    },
+    {
+      "code": "MO003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Mol, pri izlasku, na benzinskoj pumpi. Lice prema ulazu u Mol"
+    },
+    {
+      "code": "MO004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Mol, pri izlasku, na benzinskoj pumpi. Lice ka Molu"
+    }
+  ],
+  [],
+  [
+    {
+      "code": "NI001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Niš, Vizantijski bulevar kod Roda centra"
+    },
+    {
+      "code": "NI002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Niš, Vizantijski bulevar kod Roda centra"
+    },
+    {
+      "code": "NI003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Niš, Pantelejska, u blizini marketa Idea i NIS pumpe"
+    },
+    {
+      "code": "NI004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Niš, Pantelejska, u blizini marketa Idea i NIS pumpe"
+    },
+    {
+      "code": "NI006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Niš, Bul. Nikole Tesle, kružni tok"
+    },
+    {
+      "code": "NI007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Niš, Bul. Nikole Tesle, kružni tok"
+    },
+    {
+      "code": "NI009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Niš, Bul. Svetog Cara Konstantina, kod NIS pumpe i u blizini tc Roda"
+    },
+    {
+      "code": "NI010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Niš, Bul. Svetog Cara Konstantina, kod NIS pumpe i u blizini tc Roda"
+    }
+  ],
+  [
+    {
+      "code": "NP001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Nova Pazova, ulaz/izlaz kod bazena"
+    },
+    {
+      "code": "NP002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Nova Pazova, ulaz/izlaz kod bazena"
+    }
+  ],
+  [
+    {
+      "code": "NB001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Bečej, na autobuskoj stanici"
+    },
+    {
+      "code": "NB002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Bečej, na autobuskoj stanici"
+    },
+    {
+      "code": "NB003",
+      "dimension": "500x240",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Novi Bečej, na raskrsnici tranzitnog puta i puta za centar"
+    },
+    {
+      "code": "NB004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Novi Bečej, ulaz od Bečeja i Zrenjanina (kod mosta)"
+    },
+    {
+      "code": "NB005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Novi Bečej, izlaz ka Bečeju i Zrenjaninu (kod mosta)"
+    }
+  ],
+  [
+    {
+      "code": "NK001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Novi Kneževac, ulaz iz pravca Kikinde"
+    },
+    {
+      "code": "NK002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Novi Kneževac, izlaz u pravcu Kikinde"
+    },
+    {
+      "code": "NK003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Kneževac, kod mosta raskrsnica centar, Kanjiža i Subotica"
+    },
+    {
+      "code": "NK004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Kneževac, kod mosta raskrsnica centar, Kanjiža i Subotica"
+    },
+    {
+      "code": "NK005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Kneževac, kružni tok centar, Horgoš, Đala"
+    },
+    {
+      "code": "NK006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Kneževac, kružni tok centar, Horgoš, Đala"
+    },
+    {
+      "code": "NK007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Kneževac, kod fabrike Aleva"
+    },
+    {
+      "code": "NK008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Kneževac, kod fabrike Aleva"
+    }
+  ],
+  [],
+  [
+    {
+      "code": "NS001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, raskrsnica Bul. Evrope i Futoške ulice. Lice prema centru"
+    },
+    {
+      "code": "NS002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, raskrsnica Bul. Evrope i Futoške ulice. Lice prema Bul. Evrope"
+    },
+    {
+      "code": "NS003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Temerinski put, kod Najlon pijace"
+    },
+    {
+      "code": "NS004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Temerinski put, kod Najlon pijace"
+    },
+    {
+      "code": "NS009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Petrovaradin, tranzitni put prema Rumi, posle Petrol pumpe"
+    },
+    {
+      "code": "NS010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Petrovaradin, tranzitni put od Rume, pre Petrol pumpe"
+    },
+    {
+      "code": "NS013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Rumenački put (izlaz iz NS sa desne strane)"
+    },
+    {
+      "code": "NS014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Rumenački put (ulaz u NS sa leve strane)"
+    },
+    {
+      "code": "NS015",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Raskrsnica Futoškog puta i Bul. Evrope, levi"
+    },
+    {
+      "code": "NS016",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Raskrsnica Futoškog puta i Bul. Evrope, desni"
+    },
+    {
+      "code": "NS017",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Evrope, raskrsnica Futoškim putem, ka auto putu"
+    },
+    {
+      "code": "NS018",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Hadži Ruvimova, od Novosadskog sajma ka Bul. Evrope"
+    },
+    {
+      "code": "NS019",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Hadži Ruvimova, od Bul. Evrope ka Novosadskom sajmu"
+    },
+    {
+      "code": "NS020",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Novi Sad, ulaz u Kać, na putu ka Zrenjaninu"
+    },
+    {
+      "code": "NS021",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Novi Sad, izlaz iz Kaća i put od Zrenjanina prema auto putu i Novom Sadu"
+    },
+    {
+      "code": "NS022",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, izlaz ka kaćkoj petlji i auto putu"
+    },
+    {
+      "code": "NS023",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, ulaz od Kaćke petlje i auto puta"
+    },
+    {
+      "code": "NS024",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, ulaz od Kaćke petlje i auto puta"
+    },
+    {
+      "code": "NS025",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, izlaz ka kaćkoj petlji i auto putu"
+    },
+    {
+      "code": "NS026",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Novi Sad, Mišeluk, put prema Rumi"
+    },
+    {
+      "code": "NS027",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Novi Sad, Mišeluk, ulaz u grad iz pravca Rume"
+    },
+    {
+      "code": "NS028",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Sremska Kamenica, raskrsnica za Beočin, Irig i Rumu"
+    },
+    {
+      "code": "NS029",
+      "dimension": "360x270",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Evrope nakon kruž. toka, ulaz sa auto puta i iz pravca Rumenke"
+    },
+    {
+      "code": "NS030",
+      "dimension": "360x270",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Evrope, pre kružnog toka, prema auto putu i Rumenci"
+    },
+    {
+      "code": "NS036",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Evrope, naspram sajma, pravac ka Limanima"
+    },
+    {
+      "code": "NS037",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Evrope, naspram sajma, pravac Detelinari i auto putu"
+    },
+    {
+      "code": "NS038",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Patrijarha Pavla od Vetrnika i Novog naselja ka Limanima"
+    },
+    {
+      "code": "NS039",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Patrijarha Pavla od Limana ka Novom naselju i Veterniku"
+    },
+    {
+      "code": "NS040",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. Patrijarha Pavla na uglu sa Vršačkom prema Limanima"
+    },
+    {
+      "code": "NS041",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Bul. P. Pavla na uglu sa Vršačkom prema N. naselju i Veretniku"
+    },
+    {
+      "code": "NS042",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Kisačka pre raskrsnice sa Partizanskom prema t.c. Big"
+    },
+    {
+      "code": "NS043",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Novi Sad, Kisačka kod Luk Oil pumpe pre nadvožnjaka prema centru i železničkoj"
+    }
+  ],
+  [
+    {
+      "code": "NM001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Novo Miloševo, ulaz iz Novog Bečeja kod Luk Oil pumpe"
+    },
+    {
+      "code": "NM002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Novo Miloševo, od Kikinde i centra kod Luk Oil pumpe"
+    }
+  ],
+  [
+    {
+      "code": "OB001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Obrenovac, ugao Miloša Obrenovića i V. Mišića kod NIS pumpe ka centru"
+    },
+    {
+      "code": "OB002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Obrenovac, ugao Miloša Obrenovića i V. Mišića kod NIS pumpe od centra"
+    },
+    {
+      "code": "OB003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Obrenovac, početak V. Mišića od K. Aleksandra, tj od centra ka Interex-u"
+    },
+    {
+      "code": "OB004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Obrenovac, početak V. Mišića od K. Aleksandra, tj od centra ka Interex-u"
+    }
+  ],
+  [
+    {
+      "code": "ODZ001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Odžaci, raskrsnica, izlaz ka Bač. Petrovcu i Novom Sadu ili ka Kuli ili ka centru"
+    },
+    {
+      "code": "ODZ002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Odžaci, raskrsnica, ulaz ka centru, ka Kuli ili obilaznici i Deronjama"
+    },
+    {
+      "code": "ODZ003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Odžaci, raskrsnica, izlaz ka Bač. Petrovcu i Novom Sadu ili ka Kuli ili ka centru"
+    },
+    {
+      "code": "ODZ004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Odžaci, raskrsnica, ulaz ka centru, ka Kuli ili obilaznici i Deronjama"
+    }
+  ],
+  [
+    {
+      "code": "PA001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Pančevo, raskrsnica puteva Kovačica - Pančevo - Vršac, desni"
+    },
+    {
+      "code": "PA002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Pančevo, raskrsnica puteva Kovačica - Pančevo - Vršac, levi"
+    },
+    {
+      "code": "PA005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Pančevo, ulaz iz pravca Kovina"
+    },
+    {
+      "code": "PA006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Pančevo, izlaz u pravcu Kovina"
+    },
+    {
+      "code": "PA007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Pančevo, ulaz iz pravca Beograda"
+    },
+    {
+      "code": "PA008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Pančevo, izlaz iz Pančeva u pravcu Beograda"
+    },
+    {
+      "code": "PA009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Pančevo, izlaz iz Pančeva u pravcu Beograda"
+    },
+    {
+      "code": "PA010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Pančevo, ulaz iz pravca Beograda"
+    },
+    {
+      "code": "PA011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Pančevo, ulaz iz pravca Beograda"
+    },
+    {
+      "code": "PA012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Pančevo, ulaz iz pravca Jabuke i Kovačice"
+    }
+  ],
+  [
+    {
+      "code": "PE001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Pećinci, kružni tok kod šećerane, prema NS, RU i ŠA"
+    },
+    {
+      "code": "PE002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Pećinci, kružni tok kod šećerane, prema Beogradu"
+    }
+  ],
+  [
+    {
+      "code": "PG001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Požega, izlaz prema Užicu kod OMV pumpe"
+    },
+    {
+      "code": "PG002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Požega, ulaz iz pravca Užica kod OMV pumpe"
+    }
+  ],
+  [
+    {
+      "code": "RU001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ruma, centar"
+    },
+    {
+      "code": "RU002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Ruma, centar"
+    },
+    {
+      "code": "RU003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ruma, iz centra ka Sr. Mitrovici"
+    },
+    {
+      "code": "RU004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Ruma, iz centra ka Sr. Mitrovici"
+    },
+    {
+      "code": "RU005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ruma, izlaz iz Rume ka Sr. Mitrovici"
+    },
+    {
+      "code": "RU006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Ruma, ulaz u Rumu iz Sr. Mitrovice"
+    },
+    {
+      "code": "RU007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ruma, kod autobuske stanice"
+    },
+    {
+      "code": "RU008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Ruma, kod autobuske stanice"
+    },
+    {
+      "code": "RU009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ruma, ulaz iz pravca Novog Sada"
+    },
+    {
+      "code": "RU010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Ruma, izlaz u pravcu Novog Sada"
+    },
+    {
+      "code": "RU011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Ruma, petlja auto put Zagreb - Beograd, prema Šapcu"
+    },
+    {
+      "code": "RU012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Ruma, petlja auto put Zagreb - Beograd, od Šapca prema Rumi"
+    },
+    {
+      "code": "RU013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Ruma, izlaz od centra kod vašarišta prema Inđiji"
+    },
+    {
+      "code": "RU014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Ruma, izlaz od centra kod vašarišta prema Inđiji"
+    }
+  ],
+  [
+    {
+      "code": "SA001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Šabac, ulaz sa mosta iz pravca Rume i auto puta"
+    },
+    {
+      "code": "SA002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Šabac, neposredno pre mosta i izlaza prema Rumi i auto putu"
+    },
+    {
+      "code": "SA003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Šabac, ulaz iz pravca Rume, neposredno pre mosta"
+    },
+    {
+      "code": "SA004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Šabac, izlaz u pravcu Rume, odmah nakon mosta"
+    },
+    {
+      "code": "SA005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Šabac, Kralja Milutina kod glavne autobuske stanice"
+    },
+    {
+      "code": "SA006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Šabac, Kralja Milutina kod glavne autobuske stanice"
+    },
+    {
+      "code": "SA009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Šabac, Pocerska, u blizini DIS-a i pijace"
+    },
+    {
+      "code": "SA010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Šabac, Pocerska, u blizini DIS-a i pijace"
+    },
+    {
+      "code": "SA011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Šabac, Mačvanska, ka centru"
+    },
+    {
+      "code": "SA012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Šabac, Mačvanska, ka centru"
+    },
+    {
+      "code": "SA013",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Šabac, strogi centar, pešačka zona, trg šabačkih žrtava"
+    },
+    {
+      "code": "SA014",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Šabac, strogi centar, pešačka zona, trg šabačkih žrtava"
+    },
+    {
+      "code": "SA015",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Šabac, strogi centar, pešačka zona, trg šabačkih žrtava"
+    },
+    {
+      "code": "SA016",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Šabac, strogi centar, pešačka zona, trg šabačkih žrtava"
+    }
+  ],
+  [
+    {
+      "code": "SA001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Sajan, izlaz"
+    },
+    {
+      "code": "SA002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Sajan, ulaz"
+    }
+  ],
+  [
+    {
+      "code": "SS001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Šajkaš, centar, raskrsnica"
+    },
+    {
+      "code": "SS002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Šajkaš, centar, raskrsnica"
+    },
+    {
+      "code": "SS003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Šajkaš, ka auto putu i Kovilju iz centra"
+    },
+    {
+      "code": "SS004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Šajkaš, od Kovilja i auto puta ka centru"
+    }
+  ],
+  [
+    {
+      "code": "SE001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Senta, pored magistralnog puta Senta - Kikinda, pri samom ulazu u grad"
+    },
+    {
+      "code": "SE002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Senta, pored magistralnog puta Senta - Kikinda, pri samom ulazu u grad"
+    },
+    {
+      "code": "SE003",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": [],
+      "location_description": "Senta, pored magistralnog puta Senta - Kikinda, posle ulaza u grad"
+    },
+    {
+      "code": "SE004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Senta, pri samom ulazu, lice ka ulaz u grad. U blizini KTC, JTI , Elektrovojvodina"
+    },
+    {
+      "code": "SE005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Senta, pri samom ulazu lice ka gradu. U blizini megamarket KTC, JTI , Elektrovojvodina"
+    },
+    {
+      "code": "SE006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Senta, na putu prema Subotici. Kod mlina. Lice ka gradu"
+    },
+    {
+      "code": "SE007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Senta, na putu prema Subotici. Preko puta mlina. Lice ka ulazu u grad"
+    },
+    {
+      "code": "SE008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Senta, na senćanskom vašarilistu, pored magistralnog puta prema NS"
+    },
+    {
+      "code": "SE009",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Senta, pored puta Subotica - Novi Sad, na vašarištu"
+    },
+    {
+      "code": "SE010",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Senta, pored puta Subotica - Novi Sad, na vašarištu"
+    }
+  ],
+  [
+    {
+      "code": "SV001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sivac, 200 m od centra prema Somboru"
+    },
+    {
+      "code": "SV002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sivac, ulaz od Sombora na 200 m do centra"
+    }
+  ],
+  [
+    {
+      "code": "SO001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, na putu iz pravca Kljajićeva, Vrbasa i Novog Sada"
+    },
+    {
+      "code": "SO002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, na putu ka Kljajićevu, Vrbasu i Novom Sadu"
+    },
+    {
+      "code": "SO005",
+      "dimension": "260x150",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Prosvetljen",
+      "location_description": "Sombor, kod autobuske stanice i stadiona na putu ka NS"
+    },
+    {
+      "code": "SO006",
+      "dimension": "260x150",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Prosvetljen",
+      "location_description": "Sombor, kod autobuske stanice i stadiona na putu ka NS"
+    },
+    {
+      "code": "SO007",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, na putu iz pravca Kljajićeva, Vrbasa i Novog Sada"
+    },
+    {
+      "code": "SO008",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, na putu ka Kljajićevu, Vrbasu i Novom Sadu"
+    },
+    {
+      "code": "SO013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, ulaz iz pravca Stapara"
+    },
+    {
+      "code": "SO014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, izlaz u pravcu Stapara"
+    },
+    {
+      "code": "SO015",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, izlaz prema Novom Sadu, kod marketa Idea"
+    },
+    {
+      "code": "SO016",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, ulaz iz pravca Novog Sada, kod marketa Idea"
+    },
+    {
+      "code": "SO017",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, 300 m od centra, ulaz iz pravca Subotice kod NIS pumpe"
+    },
+    {
+      "code": "SO018",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, 300 m od centra, izlaz u pravcu Subotice kod NIS pumpe"
+    },
+    {
+      "code": "SO019",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, 200 m od centra, izlaz u pravcu Apatina i Bezdana"
+    },
+    {
+      "code": "SO020",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, 200 m od centra, ulaz iz pravca Apatina i Bezdana"
+    },
+    {
+      "code": "SO021",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, 250 m od centra, izlaz u pravcu Apatina i Bezdana"
+    },
+    {
+      "code": "SO022",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, 250 m od centra, ulaz iz pravca Apatina i Bezdana"
+    },
+    {
+      "code": "SO023",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, kod autobuske stanice i stadiona na putu ka NS"
+    },
+    {
+      "code": "SO024",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, kod autobuske stanice i stadiona na putu ka NS"
+    },
+    {
+      "code": "SO025",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sombor, centar, početak pešačke zone kod zgrade Opštine"
+    },
+    {
+      "code": "SO026",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sombor, centar, početak pešačke zone kod zgrade Opštine"
+    }
+  ],
+  [
+    {
+      "code": "SR001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Srbobran, izlaz iz pravca Čeneja i Novog Sada"
+    },
+    {
+      "code": "SR002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Srbobran, ulaz u pravcu Čeneja i Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "SM001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Prvi",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, u kružnom toku"
+    },
+    {
+      "code": "SM002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Drugi",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, u kružnom toku"
+    },
+    {
+      "code": "SM003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Treći",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, u kružnom toku"
+    },
+    {
+      "code": "SM004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Četvrti",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, u kružnom toku"
+    },
+    {
+      "code": "SM005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Peti",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, u kružnom toku"
+    },
+    {
+      "code": "SM006",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Sremska Mitrovica, na ulazu u Sremsku Mitrovicu, kod gradskog bazena"
+    },
+    {
+      "code": "SM007",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Sremska Mitrovica, na izlazu u pravcu Rume i Inđije kod grad. bazena"
+    },
+    {
+      "code": "SM008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Prvi",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, magistralni put Laćarak"
+    },
+    {
+      "code": "SM009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Drugi",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, magistralni put Laćarak"
+    },
+    {
+      "code": "SM010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, od centra prema Rodi kod NIS pumpe"
+    },
+    {
+      "code": "SM011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Sremska Mitrovica, od centra prema Rodi kod NIS pumpe"
+    }
+  ],
+  [
+    {
+      "code": "SK001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Sremski Karlovci, izlaz ka Petrovaradinu i Novom Sadu"
+    },
+    {
+      "code": "SK002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Sremski Karlovci, ulaz iz Petrovaradina i Novog Sada"
+    }
+  ],
+  [
+    {
+      "code": "SP001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Stara Pazova, ulaz iz pravca Inđije, donji"
+    },
+    {
+      "code": "SP002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Stara Pazova, izlaz ka Inđiji, donji"
+    },
+    {
+      "code": "SP003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Stara Pazova, ulaz iz pravca Inđije, gornji"
+    },
+    {
+      "code": "SP004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Stara Pazova, izlaz ka Inđiji, gornji"
+    },
+    {
+      "code": "SP005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Stara Pazova, ulaz od auto puta"
+    },
+    {
+      "code": "SP006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Stara Pazova, izlaz ka auto putu"
+    }
+  ],
+  [
+    {
+      "code": "ŽE001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Stari Žednik, ulaz iz pravca Bačke Topole"
+    },
+    {
+      "code": "ŽE002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Stari Žednik, izlaz u pravcu Bačke Topole"
+    }
+  ],
+  [
+    {
+      "code": "SU001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, na glavnoj autobuskoj stanici"
+    },
+    {
+      "code": "SU002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, na glavnoj autobuskoj stanici - okrenut ka peronima"
+    },
+    {
+      "code": "SU003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, na glavnoj autobuskoj stanici"
+    },
+    {
+      "code": "SU004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, na glavnoj autobuskoj stanici"
+    },
+    {
+      "code": "SU005",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, kod supermarketa Roda. Izlaz iz grada"
+    },
+    {
+      "code": "SU006",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, kod supermarketa Roda. Ulaz od Palića"
+    },
+    {
+      "code": "SU009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, centar, Beogradski put, Tokio, kod bioskopa Zvezda i Žute kuće"
+    },
+    {
+      "code": "SU010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, centar, Beogradski put, Tokio, kod bioskopa Zvezda i Žute kuće"
+    },
+    {
+      "code": "SU011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, Prozivka, kod OMV pumpe prema centru, prvi"
+    },
+    {
+      "code": "SU012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, Prozivka, kod OMV pumpe prema bolnici, drugi"
+    },
+    {
+      "code": "SU013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, Prozivka, kod OMV pumpe prema centru, drugi"
+    },
+    {
+      "code": "SU014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, Prozivka, kod OMV pumpe prema bolnici, prvi"
+    },
+    {
+      "code": "SU015",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, centar, Maksima Gorkog – N. Opština 2"
+    },
+    {
+      "code": "SU016",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, centar, Maksima Gorkog – N. Opština 2"
+    },
+    {
+      "code": "SU017",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Segedinski put, Sintelon"
+    },
+    {
+      "code": "SU018",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Segedinski put, Sintelon"
+    },
+    {
+      "code": "SU019",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, Matijević"
+    },
+    {
+      "code": "SU020",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Beogradski put, Matijević"
+    },
+    {
+      "code": "SU021",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Mali Bajmok, buvljak, NIS benzinska pumpa"
+    },
+    {
+      "code": "SU022",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Mali Bajmok, buvljak, NIS benzinska pumpa"
+    },
+    {
+      "code": "SU023",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Segedinski put, Rotografika"
+    },
+    {
+      "code": "SU024",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Segedinski put, Rotografika"
+    },
+    {
+      "code": "SU025",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Nova opština, prema autobuskoj stanici"
+    },
+    {
+      "code": "SU026",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Nova opština, od autobuske stanice ka centru"
+    },
+    {
+      "code": "SU027",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Subotica, Segedinski put kod Subotica transa"
+    },
+    {
+      "code": "SU028",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Subotica, Segedinski put kod Subotica transa"
+    }
+  ],
+  [
+    {
+      "code": "TE001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Donji",
+      "lighting": "Da",
+      "location_description": "Temerin, prema Novom Sadu - kod Univerexporta"
+    },
+    {
+      "code": "TE002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Donji",
+      "lighting": "Da",
+      "location_description": "Temerin, prema Bečeju - kod Univerexporta"
+    },
+    {
+      "code": "TE003",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Gornji",
+      "lighting": "Da",
+      "location_description": "Temerin, prema Novom Sadu - kod Univerexporta"
+    },
+    {
+      "code": "TE004",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Gornji",
+      "lighting": "Da",
+      "location_description": "Temerin, prema Bečeju - kod Univerexporta"
+    },
+    {
+      "code": "TE005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Temerin, izlaz u pravcu Nadalja i Bačkog Gradišta"
+    },
+    {
+      "code": "TE006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Temerin, ulaz iz pravca Nadalja i Bačkog Gradišta"
+    }
+  ],
+  [
+    {
+      "code": "TI001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Titel, posle mosta"
+    },
+    {
+      "code": "TI002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Titel, pre mosta"
+    },
+    {
+      "code": "TI003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Titel, kod John Deer-a"
+    },
+    {
+      "code": "TI004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Titel, kod John Deer-a"
+    }
+  ],
+  [
+    {
+      "code": "TO001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Tornjoš, centar, prema Senti"
+    },
+    {
+      "code": "TO002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Tornjoš, centar, prema Subotici, Bačkoj Topoli i auto putu"
+    }
+  ],
+  [
+    {
+      "code": "UZ001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Užice, izlaz iz grada ka Zlatiboru kod glavne autobuske stanice"
+    },
+    {
+      "code": "UZ002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Užice, izlaz iz grada ka Zlatiboru kod glavne autobuske stanice"
+    },
+    {
+      "code": "UZ003",
+      "dimension": "400x300",
+      "free": "Da",
+      "lighting": "Da",
+      "location_description": "Užice, ulaz u grad iz pravca Zlatibora kod glavne autobuske stanice"
+    }
+  ],
+  [
+    {
+      "code": "VA001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Valjevo, V. Nikolaja, pored fabrike Krušik i NIS pumpe, put za Beograd"
+    },
+    {
+      "code": "VA002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Valjevo, V. Nikolaja, pored fabrike Krušik i NIS pumpe, put za Beograd"
+    },
+    {
+      "code": "VA003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Valjevo, Bul. palih ratnika 91-92, kod Rode i ž. stanice"
+    },
+    {
+      "code": "VA004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Valjevo, Bul. palih ratnika 91-92, kod Rode i ž. stanice"
+    },
+    {
+      "code": "VA005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Valjevo, Vladike Nikolaja, kod Knez petrol pumpe, put za Beograd"
+    },
+    {
+      "code": "VA006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Valjevo, Vladike Nikolaja, kod Knez petrol pumpe, put za Beograd"
+    },
+    {
+      "code": "VA007",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Valjevo, Majora Ilića, ulaz od Loznice i Bajine Bašte"
+    },
+    {
+      "code": "VA008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Valjevo, Majora Ilića, ulaz od Loznice i Bajine Bašte"
+    }
+  ],
+  [
+    {
+      "code": "VI001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Vilovo, raskrsnica Vilovo - Gardinovci"
+    },
+    {
+      "code": "VI002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Vilovo, raskrsnica Vilovo - Gardinovci"
+    }
+  ],
+  [
+    {
+      "code": "VB001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Vrbas, ulaz iz pravca Kule, kod Carnex-a i šećerane"
+    },
+    {
+      "code": "VB002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Vrbas, izlaz prema Kuli, kod Carnex-a i šećerane"
+    }
+  ],
+  [
+    {
+      "code": "VS001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Vršac, ulaz iz pravca Beograda"
+    },
+    {
+      "code": "VS002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Vršac, izlaz u pravcu Beograda"
+    },
+    {
+      "code": "VS003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Vršac, ulaz iz pravca Zrenjanina"
+    },
+    {
+      "code": "VS004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Vršac, izlaz u pravcu Zrenjanina"
+    }
+  ],
+  [
+    {
+      "code": "ŽA001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Žabalj, raskrsnica NS - ZR - Žabalj - Đurđevo, vidljiv iz pravca NS-ZR"
+    },
+    {
+      "code": "ŽA002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Žabalj, raskrsnica NS - ZR - Žabalj - Đurđevo, vidljiv iz pravca ZR-NS"
+    },
+    {
+      "code": "ŽA003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Žabalj, 500 m od centra prema Čurugu"
+    },
+    {
+      "code": "ŽA004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Žabalj, ulaz iz pravca Čuruga, 500 m do centr"
+    }
+  ],
+  [
+    {
+      "code": "ZI001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Žitište, ulaz iz pravca Zrenjanina"
+    },
+    {
+      "code": "ZI002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Žitište, izlaz u pravcu Zrenjanina"
+    }
+  ],
+  [
+    {
+      "code": "ZL001",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zlatibor, ulaz kod hotela Olimp"
+    },
+    {
+      "code": "ZL002",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zlatibor, izlaz kod hotela Olimp"
+    },
+    {
+      "code": "ZL003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zlatibor, kružni tok Zlatibor, Užice Crna Gora"
+    },
+    {
+      "code": "ZL004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zlatibor, kružni tok Zlatibor, Užice Crna Gora"
+    },
+    {
+      "code": "ZL005",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zlatibor, u centru kod pijace"
+    },
+    {
+      "code": "ZL006",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zlatibor, u centru kod pijace"
+    }
+  ],
+  [
+    {
+      "code": "ZR001",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Donji",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, centar, 150 m od pešačkog mosta, kod Rodića"
+    },
+    {
+      "code": "ZR002",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "Gornji",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, centar, 150 m od pešačkog mosta, kod Rodića"
+    },
+    {
+      "code": "ZR003",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Levi",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, kruzni tok iz pravca Kikinde, i tranzita za NS ili BG"
+    },
+    {
+      "code": "ZR004",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "Desni",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, kruzni tok iz pravca Kikinde, i tranzita za NS ili BG"
+    },
+    {
+      "code": "ZR006",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Zrenjanin, naselje Mužlja, put za bolnicu i Novi Sad"
+    },
+    {
+      "code": "ZR007",
+      "dimension": "500x240",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Zrenjanin, naselje Mužlja, put za bolnicu i Novi Sad"
+    },
+    {
+      "code": "ZR008",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, N. Pašića (glavna saobraćajnica), od autob. stanice ka centu 500 m"
+    },
+    {
+      "code": "ZR009",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, N. Pašića (glavna saobraćajnica), od centra ka autobu. stanici 1 km"
+    },
+    {
+      "code": "ZR010",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, centar, Bul. M. Milankovića od bus stanice, kod EKO pumpe"
+    },
+    {
+      "code": "ZR011",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, centar, Bul. M. Milankovića, ka bus stanici, kod EKO pumpe"
+    },
+    {
+      "code": "ZR012",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Zrenjanin, ulaz iz pravca Novog Sada"
+    },
+    {
+      "code": "ZR013",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Zrenjanin, izlaz u pravcu Novog Sada"
+    },
+    {
+      "code": "ZR014",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Zrenjanin, ulaz iz pravca Žitišta i Gran. Prelaza sa Rumunijom"
+    },
+    {
+      "code": "ZR015",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Zrenjanin, izlaz u pravcu Žitišta i Gran. Prelazu sa Rumunijom"
+    },
+    {
+      "code": "ZR016",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Zrenjanin, ulaz iz pravca Beograda"
+    },
+    {
+      "code": "ZR017",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Zrenjanin, izlaz u pravcu Beograda"
+    },
+    {
+      "code": "ZR018",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": [],
+      "location_description": "Zrenjanin, izlaz u pravcu Beograda"
+    },
+    {
+      "code": "ZR019",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": [],
+      "location_description": "Zrenjanin, ulaz iz pravca Beograda"
+    },
+    {
+      "code": "ZR022",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, centar, ugao Bul. Milutina Milankovića i Cara Dušana"
+    },
+    {
+      "code": "ZR023",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, centar, ugao Bul. Milutina Milankovića i Cara Dušana"
+    },
+    {
+      "code": "ZR024",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "A",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, Beogradska ul., ka centru, preko puta glavne autobuske stanice"
+    },
+    {
+      "code": "ZR025",
+      "dimension": "400x300",
+      "free": "Da",
+      "side": "B",
+      "lighting": "Da",
+      "location_description": "Zrenjanin, Beogradska ul., od centra, preko puta glavne autobuske stanice"
+    }
+  ]
+]

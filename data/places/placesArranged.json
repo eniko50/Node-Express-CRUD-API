@@ -1,0 +1,314 @@
+[
+  {
+    "name": "ADA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "APATIN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČKA PALANKA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČKA TOPOLA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČKI JARAK",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČKI MONOŠTOR",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČKI PETROVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAČKO GRADIŠTE",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAJMOK",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BANATSKA TOPOLA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BANATSKO VELIKO SELO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAŠAID",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BAVANIŠTE",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BEČEJ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BEČEJSKI RIBNJAK",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BELA CRKVA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "BEOČIN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ČAČAK",
+    "monthly_rent_price": 480
+  },
+  {
+    "name": "ČENTA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ČOKA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "CRVENKA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "FEKETIĆ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "FUTOG",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "GORNJI MILANOVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "HORGOŠ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "INĐIJA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "IRIG",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KANJIŽA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KIKINDA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KOVAČICA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KOVIN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KRAGUJEVAC",
+    "monthly_rent_price": 480
+  },
+  {
+    "name": "KRALJEVO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KRUŠEVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "KULA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "LESKOVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "MALI IĐOŠ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "MOKRIN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "MOL",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NAKOVO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NIŠ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NOVA PAZOVA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NOVI BEČEJ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NOVI KNEŽEVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NOVI KOZARCI",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "NOVI SAD",
+    "monthly_rent_price": 480
+  },
+  {
+    "name": "NOVO MILOŠEVO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "OBRENOVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ODŽACI",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "PANČEVO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "PEĆINCI",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "POŽEGA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "RUMA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ŠABAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SAJAN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ŠAJKAŠ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SENTA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SIVAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SOMBOR",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SRBOBRAN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SREMSKA MITROVICA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SREMSKI KARLOVCI",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "STARA PAZOVA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "STARI ŽEDNIK",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "SUBOTICA",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "TEMERIN",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "TITEL",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "TORNJOŠ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "UŽICE",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "VALJEVO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "VILOVO",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "VRBAS",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "VRŠAC",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ŽABALJ",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ŽITIŠTE",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ZLATIBOR",
+    "monthly_rent_price": 320
+  },
+  {
+    "name": "ZRENJANIN",
+    "monthly_rent_price": 320
+  }
+]

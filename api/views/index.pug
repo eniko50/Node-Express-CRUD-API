@@ -1,0 +1,27 @@
+doctype html
+html
+    head
+        title EKT Bilbordi
+        //- meta(charset='utf-8')
+        //- proper rendering and touch zooming
+        meta(name='viewport' content='width=device-width, initial-scale=1')
+
+        link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css')
+        script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js')
+        script(src='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js')
+
+    body
+        <div class="container-fluid">
+        //- h1 Welcome to my API
+
+        nav.navbar.navbar-expand-sm.bg-primary.navbar-dark.fixed-top
+            ul.navbar-nav
+                li.nav-item.active
+                    a.nav-link(href='/') Home
+                li.nav-item
+                    a.nav-link(href='/bilboards') Show all bilboards
+                li.nav-item
+                    a.nav-link(href='/bilboards/add') Add new bilboard
+                li.nav-item
+                    a.nav-link.disabled(href='/places') Show all places
