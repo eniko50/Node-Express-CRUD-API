@@ -6,6 +6,8 @@ const bodyParser = require('body-parser');
 // const cors = require('cors');
 const Bilboard = require('./api/routes/bilboardRouter');
 const Place = require('./api/routes/placeRouter');
+const Rent = require('./api/routes/rentRouter');
+
 // const routes = require('./api/routes/index');
 const app = express();
 
@@ -25,8 +27,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 //     res.render('index');
 // });
 
-app.use('/bilboards', Bilboard);
+app.use('/', Bilboard);
 app.use('/places', Place);
+app.use('/rents', Rent);
 
 app.listen(3000);
 

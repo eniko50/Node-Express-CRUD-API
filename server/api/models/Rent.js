@@ -9,8 +9,8 @@ const Rent = sequelize.define('rent', {
     start_rent_date: Sequelize.DATE,
     end_rent_date: Sequelize.DATE
 });
-Rent.belongsTo(Bilboard, {foreignKey: 'bilboard_id', targetKey: 'id'});
-Rent.belongsTo(User, {foreignKey: 'user_id', targetKey: 'id'});
+Rent.belongsTo(Bilboard, {foreignKey: 'bilboard_id', targetKey: 'id', onDelete: 'CASCADE'});
+Rent.belongsTo(User, {foreignKey: 'user_id', targetKey: 'id', onDelete: 'CASCADE'});
 Rent.sync();
 
 module.exports = Rent;

@@ -12,7 +12,9 @@ const Bilboard = sequelize.define('bilboard',{
     place_id: Sequelize.INTEGER
 });
 
-Bilboard.belongsTo(Place, {foreignKey: 'place_id', targetKey: 'id'});
+Bilboard.belongsTo(Place, {foreignKey: 'place_id', targetKey: 'id', onDelete: 'CASCADE'});
+//This is important for eager loading
+Place.hasMany(Bilboard, { foreignKey: 'place_id', sourceKey: 'id'});
 
 Bilboard.sync(() => {
     console.log('Table was created!');
