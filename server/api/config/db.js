@@ -13,7 +13,7 @@
 // })
 
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('bilboards', 'root', '', {
+const sequelize = new Sequelize('bilboards', 'root', 'root', {
     host: 'localhost',
     dialect: 'mysql',
     define: {
